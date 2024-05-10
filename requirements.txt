@@ -9,3 +9,5 @@ scikit-learn
 pipeline
 joblib
 pickle
+
+streamlit_option_menu
